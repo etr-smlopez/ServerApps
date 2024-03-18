@@ -1,0 +1,143 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Administrator\\Desktop\\BlazorApp\\ServerApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EEE4B1DB-EE4A-4435-8DB1-F04C2D6E727E}|..\\WinFormsLibrary2\\WinFormsLibrary2.csproj|c:\\users\\administrator\\desktop\\blazorapp\\winformslibrary2\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{036E0838-23D8-49FE-B1AA-C592E0EEC33D}|B:\\Test Projects\\SignalR App\\SampleForm\\SampleForm.csproj|b:\\test projects\\signalr app\\sampleform\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{036E0838-23D8-49FE-B1AA-C592E0EEC33D}|B:\\Test Projects\\SignalR App\\SampleForm\\SampleForm.csproj|b:\\test projects\\signalr app\\sampleform\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EEE4B1DB-EE4A-4435-8DB1-F04C2D6E727E}|..\\WinFormsLibrary2\\WinFormsLibrary2.csproj|c:\\users\\administrator\\desktop\\blazorapp\\winformslibrary2\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EEE4B1DB-EE4A-4435-8DB1-F04C2D6E727E}|..\\WinFormsLibrary2\\WinFormsLibrary2.csproj|c:\\users\\administrator\\desktop\\blazorapp\\winformslibrary2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77889D6A-64AE-4FE4-A989-760633509239}|..\\WinFormsApp1\\WinFormsApp1.csproj|c:\\users\\administrator\\desktop\\blazorapp\\winformsapp1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{06ADF2B8-5699-4587-A529-4623546DD79B}|ServerApp.csproj|C:\\Users\\Administrator\\Desktop\\BlazorApp\\ServerApp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{06ADF2B8-5699-4587-A529-4623546DD79B}|ServerApp.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Microsoft.Common.CurrentVersion.targets",
+              "DocumentMoniker": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
+              "ToolTip": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
+              "ViewState": "AQIAAHgUAAAAAAAAAADwv4UUAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003801|",
+              "WhenOpened": "2024-03-18T08:42:11.82Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "B:\\Test Projects\\SignalR App\\SampleForm\\Form1.cs",
+              "ToolTip": "B:\\Test Projects\\SignalR App\\SampleForm\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-18T08:34:40.369Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\BlazorApp\\WinFormsLibrary2\\Form1.cs",
+              "RelativeDocumentMoniker": "..\\WinFormsLibrary2\\Form1.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\BlazorApp\\WinFormsLibrary2\\Form1.cs*",
+              "RelativeToolTip": "..\\WinFormsLibrary2\\Form1.cs*",
+              "ViewState": "AQIAACIAAAAAAAAAAAAnwC0AAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-18T08:26:50.899Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\BlazorApp\\WinFormsLibrary2\\Form1.cs",
+              "RelativeDocumentMoniker": "..\\WinFormsLibrary2\\Form1.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\BlazorApp\\WinFormsLibrary2\\Form1.cs [Design]*",
+              "RelativeToolTip": "..\\WinFormsLibrary2\\Form1.cs [Design]*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-18T08:06:11.579Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\BlazorApp\\WinFormsLibrary2\\Program.cs",
+              "RelativeDocumentMoniker": "..\\WinFormsLibrary2\\Program.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\BlazorApp\\WinFormsLibrary2\\Program.cs",
+              "RelativeToolTip": "..\\WinFormsLibrary2\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-18T08:05:43.203Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\BlazorApp\\WinFormsApp1\\Program.cs",
+              "RelativeDocumentMoniker": "..\\WinFormsApp1\\Program.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\BlazorApp\\WinFormsApp1\\Program.cs",
+              "RelativeToolTip": "..\\WinFormsApp1\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-18T08:05:41.939Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "B:\\Test Projects\\SignalR App\\SampleForm\\Form1.cs",
+              "ToolTip": "B:\\Test Projects\\SignalR App\\SampleForm\\Form1.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAIA+wEIAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-18T06:50:00.647Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\BlazorApp\\ServerApp\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\BlazorApp\\ServerApp\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAACQAAAAAAAAAAAAAAC8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-18T05:55:53.53Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
