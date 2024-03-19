@@ -49,6 +49,8 @@ app.UseEndpoints(endpoints =>
 {
     endpoints.MapControllers();
     endpoints.MapHub<DataHub>("/datahub");
+    endpoints.MapHub<CostUnitsHub>("/costunitshub");
+    endpoints.MapHub<SalesOrderHub>("/salesorderhub");
 });
 
 app.MapFallbackToPage("/_Host");

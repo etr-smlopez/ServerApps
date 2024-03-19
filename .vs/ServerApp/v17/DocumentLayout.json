@@ -3,29 +3,78 @@
   "WorkspaceRootPath": "C:\\Users\\Administrator\\Desktop\\BlazorApp\\ServerApp\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{06ADF2B8-5699-4587-A529-4623546DD79B}|ServerApp.csproj|C:\\Users\\Administrator\\Desktop\\BlazorApp\\ServerApp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{06ADF2B8-5699-4587-A529-4623546DD79B}|ServerApp.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{06ADF2B8-5699-4587-A529-4623546DD79B}|ServerApp.csproj|C:\\Users\\Administrator\\Desktop\\BlazorApp\\ServerApp\\sqlaccess\\datarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{06ADF2B8-5699-4587-A529-4623546DD79B}|ServerApp.csproj|solutionrelative:sqlaccess\\datarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{06ADF2B8-5699-4587-A529-4623546DD79B}|ServerApp.csproj|C:\\Users\\Administrator\\Desktop\\BlazorApp\\ServerApp\\sqlaccess\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{06ADF2B8-5699-4587-A529-4623546DD79B}|ServerApp.csproj|solutionrelative:sqlaccess\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{06ADF2B8-5699-4587-A529-4623546DD79B}|ServerApp.csproj|c:\\users\\administrator\\desktop\\blazorapp\\serverapp\\shared\\navmenu.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{06ADF2B8-5699-4587-A529-4623546DD79B}|ServerApp.csproj|solutionrelative:shared\\navmenu.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{06ADF2B8-5699-4587-A529-4623546DD79B}|ServerApp.csproj|c:\\users\\administrator\\desktop\\blazorapp\\serverapp\\shared\\mainlayout.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{06ADF2B8-5699-4587-A529-4623546DD79B}|ServerApp.csproj|solutionrelative:shared\\mainlayout.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{06ADF2B8-5699-4587-A529-4623546DD79B}|ServerApp.csproj|C:\\Users\\Administrator\\Desktop\\BlazorApp\\ServerApp\\models\\salesordermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{06ADF2B8-5699-4587-A529-4623546DD79B}|ServerApp.csproj|solutionrelative:models\\salesordermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{06ADF2B8-5699-4587-A529-4623546DD79B}|ServerApp.csproj|c:\\users\\administrator\\desktop\\blazorapp\\serverapp\\models\\employeemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{06ADF2B8-5699-4587-A529-4623546DD79B}|ServerApp.csproj|solutionrelative:models\\employeemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{06ADF2B8-5699-4587-A529-4623546DD79B}|ServerApp.csproj|C:\\Users\\Administrator\\Desktop\\BlazorApp\\ServerApp\\models\\costunitsmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{06ADF2B8-5699-4587-A529-4623546DD79B}|ServerApp.csproj|solutionrelative:models\\costunitsmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{06ADF2B8-5699-4587-A529-4623546DD79B}|ServerApp.csproj|C:\\Users\\Administrator\\Desktop\\BlazorApp\\ServerApp\\hubs\\datahub.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{06ADF2B8-5699-4587-A529-4623546DD79B}|ServerApp.csproj|solutionrelative:hubs\\datahub.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{06ADF2B8-5699-4587-A529-4623546DD79B}|ServerApp.csproj|C:\\Users\\Administrator\\Desktop\\BlazorApp\\ServerApp\\hubs\\salesorderhub.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{06ADF2B8-5699-4587-A529-4623546DD79B}|ServerApp.csproj|solutionrelative:hubs\\salesorderhub.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{06ADF2B8-5699-4587-A529-4623546DD79B}|ServerApp.csproj|C:\\Users\\Administrator\\Desktop\\BlazorApp\\ServerApp\\hubs\\costunitshub.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{06ADF2B8-5699-4587-A529-4623546DD79B}|ServerApp.csproj|solutionrelative:hubs\\costunitshub.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{06ADF2B8-5699-4587-A529-4623546DD79B}|ServerApp.csproj|C:\\Users\\Administrator\\Desktop\\BlazorApp\\ServerApp\\data\\weatherforecastservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{06ADF2B8-5699-4587-A529-4623546DD79B}|ServerApp.csproj|solutionrelative:data\\weatherforecastservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{06ADF2B8-5699-4587-A529-4623546DD79B}|ServerApp.csproj|c:\\users\\administrator\\desktop\\blazorapp\\serverapp\\data\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{06ADF2B8-5699-4587-A529-4623546DD79B}|ServerApp.csproj|solutionrelative:data\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{06ADF2B8-5699-4587-A529-4623546DD79B}|ServerApp.csproj|C:\\Users\\Administrator\\Desktop\\BlazorApp\\ServerApp\\controller\\salesordercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{06ADF2B8-5699-4587-A529-4623546DD79B}|ServerApp.csproj|solutionrelative:controller\\salesordercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{06ADF2B8-5699-4587-A529-4623546DD79B}|ServerApp.csproj|C:\\Users\\Administrator\\Desktop\\BlazorApp\\ServerApp\\controller\\datacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{06ADF2B8-5699-4587-A529-4623546DD79B}|ServerApp.csproj|solutionrelative:controller\\datacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{06ADF2B8-5699-4587-A529-4623546DD79B}|ServerApp.csproj|c:\\users\\administrator\\desktop\\blazorapp\\serverapp\\controller\\costunitscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{06ADF2B8-5699-4587-A529-4623546DD79B}|ServerApp.csproj|solutionrelative:controller\\costunitscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{06ADF2B8-5699-4587-A529-4623546DD79B}|ServerApp.csproj|C:\\Users\\Administrator\\Desktop\\BlazorApp\\ServerApp\\caching\\datacache.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{06ADF2B8-5699-4587-A529-4623546DD79B}|ServerApp.csproj|solutionrelative:caching\\datacache.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{EEE4B1DB-EE4A-4435-8DB1-F04C2D6E727E}|..\\WinFormsLibrary2\\WinFormsLibrary2.csproj|c:\\users\\administrator\\desktop\\blazorapp\\winformslibrary2\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{036E0838-23D8-49FE-B1AA-C592E0EEC33D}|B:\\Test Projects\\SignalR App\\SampleForm\\SampleForm.csproj|b:\\test projects\\signalr app\\sampleform\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{036E0838-23D8-49FE-B1AA-C592E0EEC33D}|B:\\Test Projects\\SignalR App\\SampleForm\\SampleForm.csproj|b:\\test projects\\signalr app\\sampleform\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{EEE4B1DB-EE4A-4435-8DB1-F04C2D6E727E}|..\\WinFormsLibrary2\\WinFormsLibrary2.csproj|c:\\users\\administrator\\desktop\\blazorapp\\winformslibrary2\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{EEE4B1DB-EE4A-4435-8DB1-F04C2D6E727E}|..\\WinFormsLibrary2\\WinFormsLibrary2.csproj|c:\\users\\administrator\\desktop\\blazorapp\\winformslibrary2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{77889D6A-64AE-4FE4-A989-760633509239}|..\\WinFormsApp1\\WinFormsApp1.csproj|c:\\users\\administrator\\desktop\\blazorapp\\winformsapp1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{06ADF2B8-5699-4587-A529-4623546DD79B}|ServerApp.csproj|C:\\Users\\Administrator\\Desktop\\BlazorApp\\ServerApp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{06ADF2B8-5699-4587-A529-4623546DD79B}|ServerApp.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -35,105 +84,252 @@
       "DocumentGroups": [
         {
           "DockedHeight": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 8,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Microsoft.Common.CurrentVersion.targets",
-              "DocumentMoniker": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
-              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
-              "ToolTip": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
-              "RelativeToolTip": "..\\..\\..\\..\\..\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
-              "ViewState": "AQIAAHgUAAAAAAAAAADwv4UUAAAEAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003801|",
-              "WhenOpened": "2024-03-18T08:42:11.82Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "Form1.cs [Design]",
-              "DocumentMoniker": "B:\\Test Projects\\SignalR App\\SampleForm\\Form1.cs",
-              "ToolTip": "B:\\Test Projects\\SignalR App\\SampleForm\\Form1.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-18T08:34:40.369Z",
-              "EditorCaption": " [Design]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Form1.cs",
-              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\BlazorApp\\WinFormsLibrary2\\Form1.cs",
-              "RelativeDocumentMoniker": "..\\WinFormsLibrary2\\Form1.cs",
-              "ToolTip": "C:\\Users\\Administrator\\Desktop\\BlazorApp\\WinFormsLibrary2\\Form1.cs*",
-              "RelativeToolTip": "..\\WinFormsLibrary2\\Form1.cs*",
-              "ViewState": "AQIAACIAAAAAAAAAAAAnwC0AAAANAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-18T08:26:50.899Z",
+              "Title": "NavMenu.razor",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\BlazorApp\\ServerApp\\Shared\\NavMenu.razor",
+              "RelativeDocumentMoniker": "Shared\\NavMenu.razor",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\BlazorApp\\ServerApp\\Shared\\NavMenu.razor",
+              "RelativeToolTip": "Shared\\NavMenu.razor",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-19T00:48:25.099Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
-              "Title": "Form1.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\BlazorApp\\WinFormsLibrary2\\Form1.cs",
-              "RelativeDocumentMoniker": "..\\WinFormsLibrary2\\Form1.cs",
-              "ToolTip": "C:\\Users\\Administrator\\Desktop\\BlazorApp\\WinFormsLibrary2\\Form1.cs [Design]*",
-              "RelativeToolTip": "..\\WinFormsLibrary2\\Form1.cs [Design]*",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-18T08:06:11.579Z",
-              "EditorCaption": " [Design]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\BlazorApp\\WinFormsLibrary2\\Program.cs",
-              "RelativeDocumentMoniker": "..\\WinFormsLibrary2\\Program.cs",
-              "ToolTip": "C:\\Users\\Administrator\\Desktop\\BlazorApp\\WinFormsLibrary2\\Program.cs",
-              "RelativeToolTip": "..\\WinFormsLibrary2\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAhAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-18T08:05:43.203Z",
+              "Title": "MainLayout.razor",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\BlazorApp\\ServerApp\\Shared\\MainLayout.razor",
+              "RelativeDocumentMoniker": "Shared\\MainLayout.razor",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\BlazorApp\\ServerApp\\Shared\\MainLayout.razor",
+              "RelativeToolTip": "Shared\\MainLayout.razor",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-19T00:48:22.918Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 6,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\BlazorApp\\WinFormsApp1\\Program.cs",
-              "RelativeDocumentMoniker": "..\\WinFormsApp1\\Program.cs",
-              "ToolTip": "C:\\Users\\Administrator\\Desktop\\BlazorApp\\WinFormsApp1\\Program.cs",
-              "RelativeToolTip": "..\\WinFormsApp1\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAFAAAA",
+              "Title": "EmployeeModel.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\BlazorApp\\ServerApp\\Models\\EmployeeModel.cs",
+              "RelativeDocumentMoniker": "Models\\EmployeeModel.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\BlazorApp\\ServerApp\\Models\\EmployeeModel.cs",
+              "RelativeToolTip": "Models\\EmployeeModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-18T08:05:41.939Z",
+              "WhenOpened": "2024-03-19T00:48:20.301Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "CostUnitsHub.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\BlazorApp\\ServerApp\\Hubs\\CostUnitsHub.cs",
+              "RelativeDocumentMoniker": "Hubs\\CostUnitsHub.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\BlazorApp\\ServerApp\\Hubs\\CostUnitsHub.cs",
+              "RelativeToolTip": "Hubs\\CostUnitsHub.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-18T13:01:14.883Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "SalesOrderHub.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\BlazorApp\\ServerApp\\Hubs\\SalesOrderHub.cs",
+              "RelativeDocumentMoniker": "Hubs\\SalesOrderHub.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\BlazorApp\\ServerApp\\Hubs\\SalesOrderHub.cs",
+              "RelativeToolTip": "Hubs\\SalesOrderHub.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-18T12:44:40.367Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "DataHub.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\BlazorApp\\ServerApp\\Hubs\\DataHub.cs",
+              "RelativeDocumentMoniker": "Hubs\\DataHub.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\BlazorApp\\ServerApp\\Hubs\\DataHub.cs",
+              "RelativeToolTip": "Hubs\\DataHub.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-18T09:44:25.513Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "Form1.cs",
-              "DocumentMoniker": "B:\\Test Projects\\SignalR App\\SampleForm\\Form1.cs",
-              "ToolTip": "B:\\Test Projects\\SignalR App\\SampleForm\\Form1.cs",
-              "ViewState": "AQIAABMAAAAAAAAAAIA+wEIAAAAIAAAA",
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\BlazorApp\\ServerApp\\SQLAccess\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "SQLAccess\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\BlazorApp\\ServerApp\\SQLAccess\\ApplicationDbContext.cs",
+              "RelativeToolTip": "SQLAccess\\ApplicationDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAABKAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-18T06:50:00.647Z",
+              "WhenOpened": "2024-03-18T09:54:41.92Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 1,
+              "Title": "DataRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\BlazorApp\\ServerApp\\SQLAccess\\DataRepository.cs",
+              "RelativeDocumentMoniker": "SQLAccess\\DataRepository.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\BlazorApp\\ServerApp\\SQLAccess\\DataRepository.cs",
+              "RelativeToolTip": "SQLAccess\\DataRepository.cs",
+              "ViewState": "AQIAADUAAAAAAAAAAAAAAFAAAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-18T09:44:58.021Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\BlazorApp\\ServerApp\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
               "ToolTip": "C:\\Users\\Administrator\\Desktop\\BlazorApp\\ServerApp\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AQIAACQAAAAAAAAAAAAAAC8AAAAAAAAA",
+              "ViewState": "AQIAACcAAAAAAAAAAAAAAC8AAAAdAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-18T05:55:53.53Z",
+              "WhenOpened": "2024-03-18T12:46:02.076Z",
               "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "WeatherForecastService.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\BlazorApp\\ServerApp\\Data\\WeatherForecastService.cs",
+              "RelativeDocumentMoniker": "Data\\WeatherForecastService.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\BlazorApp\\ServerApp\\Data\\WeatherForecastService.cs",
+              "RelativeToolTip": "Data\\WeatherForecastService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-18T09:54:36.318Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "WeatherForecast.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\BlazorApp\\ServerApp\\Data\\WeatherForecast.cs",
+              "RelativeDocumentMoniker": "Data\\WeatherForecast.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\BlazorApp\\ServerApp\\Data\\WeatherForecast.cs",
+              "RelativeToolTip": "Data\\WeatherForecast.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-19T00:48:14.127Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "SalesOrderController.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\BlazorApp\\ServerApp\\Controller\\SalesOrderController.cs",
+              "RelativeDocumentMoniker": "Controller\\SalesOrderController.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\BlazorApp\\ServerApp\\Controller\\SalesOrderController.cs",
+              "RelativeToolTip": "Controller\\SalesOrderController.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAAwAgAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-18T12:28:02.453Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "SalesOrderModel.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\BlazorApp\\ServerApp\\Models\\SalesOrderModel.cs",
+              "RelativeDocumentMoniker": "Models\\SalesOrderModel.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\BlazorApp\\ServerApp\\Models\\SalesOrderModel.cs",
+              "RelativeToolTip": "Models\\SalesOrderModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAQAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-18T12:32:32.83Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "CostUnitsController.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\BlazorApp\\ServerApp\\Controller\\CostUnitsController.cs",
+              "RelativeDocumentMoniker": "Controller\\CostUnitsController.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\BlazorApp\\ServerApp\\Controller\\CostUnitsController.cs",
+              "RelativeToolTip": "Controller\\CostUnitsController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-19T00:48:06.065Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "DataCache.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\BlazorApp\\ServerApp\\Caching\\DataCache.cs",
+              "RelativeDocumentMoniker": "Caching\\DataCache.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\BlazorApp\\ServerApp\\Caching\\DataCache.cs",
+              "RelativeToolTip": "Caching\\DataCache.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAYwCYAAABSAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-18T09:43:59.374Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "CostUnitsModel.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\BlazorApp\\ServerApp\\Models\\CostUnitsModel.cs",
+              "RelativeDocumentMoniker": "Models\\CostUnitsModel.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\BlazorApp\\ServerApp\\Models\\CostUnitsModel.cs",
+              "RelativeToolTip": "Models\\CostUnitsModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-18T09:45:43.082Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\BlazorApp\\WinFormsLibrary2\\Form1.cs",
+              "RelativeDocumentMoniker": "..\\WinFormsLibrary2\\Form1.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\BlazorApp\\WinFormsLibrary2\\Form1.cs",
+              "RelativeToolTip": "..\\WinFormsLibrary2\\Form1.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAzwI4AAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-18T13:01:49.459Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "DataController.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\BlazorApp\\ServerApp\\Controller\\DataController.cs",
+              "RelativeDocumentMoniker": "Controller\\DataController.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\BlazorApp\\ServerApp\\Controller\\DataController.cs",
+              "RelativeToolTip": "Controller\\DataController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-18T09:44:20.438Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\BlazorApp\\WinFormsLibrary2\\Form1.cs",
+              "RelativeDocumentMoniker": "..\\WinFormsLibrary2\\Form1.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\BlazorApp\\WinFormsLibrary2\\Form1.cs [Design]",
+              "RelativeToolTip": "..\\WinFormsLibrary2\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-18T09:45:01.797Z"
             }
           ]
         }

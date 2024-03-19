@@ -11,10 +11,14 @@ namespace ServerApp.SQLAccess
         }
 
         public DbSet<EmployeeModel> Employees { get; set; }
+        public DbSet<CostUnitsModel> CostUnit { get; set; }
+        public DbSet<SalesOrderModel> SalesOrder { get; set; }
 
         protected override void OnModelCreating(ModelBuilder modelBuilder)
         {
             modelBuilder.Entity<EmployeeModel>().HasKey(e => e.EmployeeID);
+            modelBuilder.Entity<CostUnitsModel>().HasKey(e => e.ReferenceID);
+            modelBuilder.Entity<SalesOrderModel>().HasKey(e => e.SalesOrderKey);
 
         }
     }

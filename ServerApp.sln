@@ -7,9 +7,7 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ServerApp", "ServerApp.cspr
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SampleForm", "B:\Test Projects\SignalR App\SampleForm\SampleForm.csproj", "{036E0838-23D8-49FE-B1AA-C592E0EEC33D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WinFormsApp1", "..\WinFormsApp1\WinFormsApp1.csproj", "{77889D6A-64AE-4FE4-A989-760633509239}"
-EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WinFormsLibrary2", "..\WinFormsLibrary2\WinFormsLibrary2.csproj", "{EEE4B1DB-EE4A-4435-8DB1-F04C2D6E727E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WinFormsLibrary2", "..\WinFormsLibrary2\WinFormsLibrary2.csproj", "{EEE4B1DB-EE4A-4435-8DB1-F04C2D6E727E}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -25,10 +23,6 @@ Global
 		{036E0838-23D8-49FE-B1AA-C592E0EEC33D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{036E0838-23D8-49FE-B1AA-C592E0EEC33D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{036E0838-23D8-49FE-B1AA-C592E0EEC33D}.Release|Any CPU.Build.0 = Release|Any CPU
-		{77889D6A-64AE-4FE4-A989-760633509239}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{77889D6A-64AE-4FE4-A989-760633509239}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{77889D6A-64AE-4FE4-A989-760633509239}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{77889D6A-64AE-4FE4-A989-760633509239}.Release|Any CPU.Build.0 = Release|Any CPU
 		{EEE4B1DB-EE4A-4435-8DB1-F04C2D6E727E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{EEE4B1DB-EE4A-4435-8DB1-F04C2D6E727E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{EEE4B1DB-EE4A-4435-8DB1-F04C2D6E727E}.Release|Any CPU.ActiveCfg = Release|Any CPU

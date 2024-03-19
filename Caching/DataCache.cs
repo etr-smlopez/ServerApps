@@ -19,8 +19,25 @@ namespace ServerApp.Caching
         {
             return _cache.GetOrCreate("CachedData", entry =>
             {
-                entry.AbsoluteExpirationRelativeToNow = TimeSpan.FromMinutes(1); // Cache expiration time
+                entry.AbsoluteExpirationRelativeToNow = TimeSpan.FromMinutes(1);  
                 return _repository.GetDataFromSqlServer();
+            });
+        }
+
+        public List<CostUnitsModel> GetCachedDataFromSqlView()
+        {
+            return _cache.GetOrCreate("CachedDataFromSqlView", entry =>
+            {
+                entry.AbsoluteExpirationRelativeToNow = TimeSpan.FromMinutes(1);  
+                return _repository.GetDataFromSqlView();
+            });
+        }
+        public List<SalesOrderModel> GetCachedSalesOrder()
+        {
+            return _cache.GetOrCreate("CachedSalesOrder", entry =>
+            {
+                entry.AbsoluteExpirationRelativeToNow = TimeSpan.FromMinutes(1);  
+                return _repository.GetDataSalesOrder();
             });
         }
     }

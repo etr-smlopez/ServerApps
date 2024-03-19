@@ -3,16 +3,15 @@ using ServerApp.Caching;
 using ServerApp.Hubs;
 
 namespace ServerApp.Controller
-{
-
+{ 
     [Route("api/[controller]")]
     [ApiController]
-    public class DataController : ControllerBase
+    public class SalesOrderController : ControllerBase
     {
         private readonly DataCache _dataCache;
         private readonly DataHub _dataHub;
 
-        public DataController(DataCache dataCache)
+        public SalesOrderController(DataCache dataCache)
         {
             _dataCache = dataCache;
         }
@@ -20,10 +19,9 @@ namespace ServerApp.Controller
         [HttpGet]
         public IActionResult Get()
         {
-            var data = _dataCache.GetCachedData();
+            var data = _dataCache.GetCachedSalesOrder();
             return Ok(data);
         }
 
-      
     }
 }

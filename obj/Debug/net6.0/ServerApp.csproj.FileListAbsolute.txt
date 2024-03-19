@@ -81,3 +81,4 @@ C:\Users\Administrator\Desktop\BlazorApp\ServerApp\obj\Debug\net6.0\refint\Serve
 C:\Users\Administrator\Desktop\BlazorApp\ServerApp\obj\Debug\net6.0\ServerApp.pdb
 C:\Users\Administrator\Desktop\BlazorApp\ServerApp\obj\Debug\net6.0\ServerApp.genruntimeconfig.cache
 C:\Users\Administrator\Desktop\BlazorApp\ServerApp\obj\Debug\net6.0\ref\ServerApp.dll
+C:\Users\Administrator\Desktop\BlazorApp\ServerApp\obj\Debug\net6.0\ServerApp.sourcelink.json
